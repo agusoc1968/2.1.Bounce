@@ -1,14 +1,14 @@
-function darthVader2() {
-  let dV: string = "No me obligues a destruirte...";
-  console.log(dV);
-}
-
+// function darthVader2() {
+//   let dV: string = "No me obligues a destruirte...";
+//   console.log(dV);
+// }
+import { lukeSkaywalker2, darthVader2 } from "../Bounce";
 setTimeout(darthVader2, 3000);
 
-function lukeSkaywalker2() {
-  let lS: string = "¡¡¡Tú no eres mi padre!!!";
-  console.log(lS);
-}
+// function lukeSkaywalker2() {
+//   let lS: string = "¡¡¡Tú no eres mi padre!!!";
+//   console.log(lS);
+// }
 
 lukeSkaywalker2();
 
