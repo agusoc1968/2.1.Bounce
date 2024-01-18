@@ -1,7 +1,7 @@
 //console.log("El diálogo fraternal");
 
 //console.log("Darth Vader, dice: ");
-
+export { lukeSkaywalker2, darthVader2 }; // to './__tests__/'
 function darthVader2() {
   let dV: string = "No me obligues a destruirte...";
   console.log(dV);
